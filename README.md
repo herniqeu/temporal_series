@@ -76,10 +76,6 @@ Aqui está a comparação entre os modelos para todas as variáveis meteorológi
 
 | Variável | Métrica | Prophet | LSTM | Melhor Modelo |
 |----------|---------|---------|------|---------------|
-| meantemp | MAE | - | - | Prophet |
-| meantemp | RMSE | - | - | Prophet |
-| meantemp | R² | - | - | Prophet |
-| meantemp | MAPE | - | - | Prophet |
 | humidity | MAE | 8.3961 | 5.6858 | LSTM |
 | humidity | RMSE | 10.4628 | 6.8944 | LSTM |
 | humidity | R² | 0.6963 | 0.8170 | LSTM |
